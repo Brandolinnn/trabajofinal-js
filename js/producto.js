@@ -1,4 +1,3 @@
-//DECLARACIÓN DE CLASE PRODUCTO
 class Producto {
     constructor(id, nombre, img, descripcion, precio, cantidad) {
             this.id = id;
